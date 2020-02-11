@@ -7,12 +7,11 @@ Generally, I am looking for like minded researchers/developers to contribute to 
 
 Debug, Debug and Debug !!
 
-```markdown
-Areas of Interest
+### Areas of Interest
 
-# Machine Learning in Security
-# Reverse Engineering 
-# One shot Exploits
+- Machine Learning in Security
+- Reverse Engineering 
+- One shot Exploits
 
 
 ### Guitar and Other Cool Stuff
