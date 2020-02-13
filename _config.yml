@@ -1,1 +1,19 @@
-theme: jekyll-theme-hacker
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: ./darkC0re
+email: fourthechelon73@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I try to reverse engineer binaries for Embedded ECU's and TCU. Hacking infotainment devices from Top Vendors is my speciality. Vulnerability research is one of my key interest areas by supplementing it with a consistent exploit.Debug, Debug, Debug is my Mantra . .
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://gh0stshell73.github.io" # the base hostname & protocol for your site
+twitter_username: gh0stshell73
+github_username:  gh0stshell73
+
+# Build settings
+markdown: kramdown
