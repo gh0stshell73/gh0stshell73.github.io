@@ -8,6 +8,7 @@
 # Site settings
 title: ./darkC0re
 email: fourthechelon73@gmail.com
+remote_theme: chrisbobbe/jekyll-theme-prologue
 description: > # this means to ignore newlines until "baseurl:"
   I try to reverse engineer binaries for Embedded ECU's and TCU. Hacking infotainment devices from Top Vendors is my speciality. Vulnerability research is one of my key interest areas by supplementing it with a consistent exploit.Debug, Debug, Debug is my Mantra . .
 baseurl: "" # the subpath of your site, e.g. /blog
